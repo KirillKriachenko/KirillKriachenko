@@ -1,6 +1,9 @@
 ### Hi there, I'm [Kirill Kriachenko] ✌
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]:https://www.linkedin.com/in/kirill-kriachenko-7a14a5134/
+<img align="left" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 
+<br/>
 ### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
 ### Languages, Frameworks and Tools:
