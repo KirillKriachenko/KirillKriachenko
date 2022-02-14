@@ -1,4 +1,10 @@
-### Hi there, I'm [Kirill Kriachenko]
+### Hi there, I'm [Kirill Kriachenko] 
+
+<br/>
+
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>]
 <!--
 **KirillKriachenko/KirillKriachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
