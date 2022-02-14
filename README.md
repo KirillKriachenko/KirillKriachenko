@@ -5,12 +5,11 @@
 
 <br />
 
-####### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
+### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
 <br />
 
-
-<img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
+![This is an image](https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg)
 
 ### Languages, Frameworks and Tools:
 
