@@ -7,7 +7,7 @@
 
 ### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
-<img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
+[<img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />]
 <br />
 ### Languages, Frameworks and Tools:
 
