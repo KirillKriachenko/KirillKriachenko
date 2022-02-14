@@ -5,6 +5,9 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>]
+[<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>]
+
+
 <!--
 **KirillKriachenko/KirillKriachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
