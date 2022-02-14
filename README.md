@@ -1,4 +1,4 @@
-### Hi there, I'm [Kirill Kriachenko] 
+### Hi there, I'm [Kirill Kriachenko] ✌
 
 ### Find me Globe:
 <img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png" href="https://www.instagram.com/kirillkriachenko/"/>
