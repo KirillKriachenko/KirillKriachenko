@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kirill Kriachenko] 
 
 ### Find me Globe:
-<img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png"/>
+<img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png" href="https://www.instagram.com/kirillkriachenko/"/>
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][instagram]
 
 ### Languages, Frameworks and Tools:
