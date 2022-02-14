@@ -5,10 +5,10 @@
 
 <br />
 
-<img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
-
 ### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
+<img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
+<br />
 ### Languages, Frameworks and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -30,7 +30,7 @@
 <img align="left" alt="Autocad" width="26px" src="https://img.icons8.com/fluency/24/000000/autocad.png"/>
 
 
-
+<br />
 
 <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=KirillKriachenko&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKriachenko&layout=compact&langs_count=8&hide=powershell,shaderlab" />
