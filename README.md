@@ -1,8 +1,7 @@
 ### Hi there, I'm [Kirill Kriachenko] ✌
 
-### Find me Globe:
-<img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png" href="https://www.instagram.com/kirillkriachenko/"/>
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+
+### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge)
 
 ### Languages, Frameworks and Tools:
 
