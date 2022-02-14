@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kirill Kriachenko] ✌
 
 
-### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
+### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
 ### Languages, Frameworks and Tools:
 
