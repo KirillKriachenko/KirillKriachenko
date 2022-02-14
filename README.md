@@ -2,7 +2,7 @@
 
 ### Find me Globe:
 <img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png" href="https://www.instagram.com/kirillkriachenko/"/>
-[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][instagram]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
 
 ### Languages, Frameworks and Tools:
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[1]: https://github.com/KirillKriachenko
 [Kirill Kriachenko]:https://github.com/KirillKriachenko
 [instagram]:https://www.instagram.com/kirillkriachenko/
 [facebook]:https://www.facebook.com/profile.php?id=100013719003125
