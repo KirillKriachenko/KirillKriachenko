@@ -31,6 +31,7 @@
 <img align="left" alt="3Ds Max" width="26px" src="https://img.icons8.com/color/48/000000/3ds-max.png"/>
 <img align="left" alt="Autocad" width="26px" src="https://img.icons8.com/fluency/24/000000/autocad.png"/>
 
+<br />
 
 <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=KirillKriachenko&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKriachenko&layout=compact&langs_count=8&hide=powershell,shaderlab" />
