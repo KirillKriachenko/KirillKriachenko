@@ -9,7 +9,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" alt="React" src="https://img.icons8.com/officel/28/000000/react.png"/>
+<img align="left" alt="React" src="https://img.icons8.com/officel/24/000000/react.png"/>
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
 <img align="left" alt="Flask" width="26px" src="https://img.icons8.com/color/48/000000/flask.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
