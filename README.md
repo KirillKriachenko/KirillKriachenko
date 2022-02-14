@@ -1,5 +1,5 @@
 ### Hi there, I'm [Kirill Kriachenko] ✌
-<a style="background-color:#3275a4; decoration:none;border:none;color:white;padding:5px">f0e1 LinkedIn</a>
+
 
 ### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
@@ -23,6 +23,8 @@
 <img align="left" alt="3Ds Max" width="26px" src="https://img.icons8.com/color/48/000000/3ds-max.png"/>
 <img align="left" alt="Autocad" width="26px" src="https://img.icons8.com/fluency/24/000000/autocad.png"/>
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KirillKriachenko&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **KirillKriachenko/KirillKriachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
