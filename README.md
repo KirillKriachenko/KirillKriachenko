@@ -1,6 +1,8 @@
 ### Hi there, I'm [Kirill Kriachenko] 
 
-<br/>
+### Find me Globe:
+<img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png"/>
+[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][instagram]
 
 ### Languages, Frameworks and Tools:
 
@@ -40,3 +42,6 @@ Here are some ideas to get you started:
 
 
 [Kirill Kriachenko]:https://github.com/KirillKriachenko
+[instagram]:https://www.instagram.com/kirillkriachenko/
+[facebook]:https://www.facebook.com/profile.php?id=100013719003125
+[linkedin]:https://www.linkedin.com/in/kirill-kriachenko-7a14a5134/
