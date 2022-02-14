@@ -1,5 +1,5 @@
 ### Hi there, I'm [Kirill Kriachenko] ✌
-
+<button style="background-color:#3275a4; decoration:none;border:none;color:white;padding:5px"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</button>
 
 ### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kirillkriachenko.visitor-badge&left_color=orange&right_color=black&left_text=visitors)
 
